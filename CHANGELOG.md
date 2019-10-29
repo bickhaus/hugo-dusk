@@ -8,6 +8,7 @@
 ### Changed
   * minimal required Hugo version is v0.57.2
   * sort posts/pages on the error page by last modification date
+  * updated summary layout
 
 ### Fixed
   * fix breaking change in mainSections introduced in Hugo v0.57.0
