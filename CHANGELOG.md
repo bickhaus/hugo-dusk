@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+###[19.10] 2019-10-29
+ 
 ### Added
   * taxonomy layout
 
