@@ -12,6 +12,7 @@
   * read more link style
   * code block background now transparent
   * date format now D Mon YYYY
+  * theme colors are changed via css file
 
 ### Fixed
   * fix breaking change in mainSections introduced in Hugo v0.57.0
