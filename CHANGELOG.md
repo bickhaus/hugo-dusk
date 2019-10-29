@@ -13,6 +13,10 @@
   * code block background now transparent
   * date format now D Mon YYYY
   * theme colors are changed via css file
+  * titles, tags, list of posts are not so dense as before
+  * default colors were fine tuned
+  * some other small layout changes
+    
 
 ### Fixed
   * fix breaking change in mainSections introduced in Hugo v0.57.0

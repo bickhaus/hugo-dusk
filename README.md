@@ -72,5 +72,5 @@ pygmentsCodeFences = true
   twitter = "twitter id"
   linkedin = "linkedin id"
   email = "myemail"
-  theme_colors = "color-dark"
+  theme_colors = "default-dark" #uses color css file under static/css/default-dark.css
 ~~~~
