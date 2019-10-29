@@ -15,6 +15,7 @@
   * fix breaking change in mainSections introduced in Hugo v0.57.0
   * deprecation warnings during site build with v0.55 and newer
   * optimize image size when viewed on mobile devices
+  * finetuned padding and margin for paragraphs
 
 ## [1.2] - 2018-03-01
 ### Added
