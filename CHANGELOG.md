@@ -1,5 +1,10 @@
 # Changelog
 
+## [Unreleased]
+
+### Changed
+  * sort posts/pages on the error page by last modification date
+
 
 ## [1.2] - 2018-03-01
 ### Added
