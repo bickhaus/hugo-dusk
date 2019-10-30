@@ -8,5 +8,9 @@ features = ["blog"]
 min_version = "0.57.2"
 
 [author]
-  name = "Gyorgy Orban"
-  homepage = "https://github.com/gyorb"
+ 
+  name = "Chris Bickhaus"
+  homepage = "https://github.com/bickhaus"
+
+  name_auth_original = "Gyorgy Orban"
+  homepage_auth_original = "https://github.com/gyorb"
